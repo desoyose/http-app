@@ -1,0 +1,9 @@
+button{
+    margin: 10px;
+    color: whitesmoke;
+}
+#current-page{
+    font-size: 1.3rem;
+    color: white !important;
+    margin: 0 10px;
+}
